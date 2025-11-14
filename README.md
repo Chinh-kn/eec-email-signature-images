@@ -1,0 +1,1 @@
+# eec-email-signature-images
